@@ -1,0 +1,126 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DomainFile class="oracle.dbtools.crest.model.design.DomainFileWrapper" fileName="test_Domains">
+   <domains>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_23 BYTE" id="02DA4DBD-7471-473A-EDE7-3EFCD4FF3157">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>23 BYTE</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_3 BYTE" id="24FD9FC6-4C5B-7479-9EF8-2AB3E80EBB4B">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>3 BYTE</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_10 BYTE" id="65C4A3E8-E2B3-2E1D-F543-5327C41B5C58">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>10 BYTE</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_2 BYTE" id="8A60C2A7-23C0-68AF-CDFA-1C18187AF6CE">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>2 BYTE</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_5 BYTE" id="9E70A2C6-847C-A487-BD13-B0FDAC04386B">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>5 BYTE</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NUMERIC_7_0_0" id="A40C3470-D7C6-1C01-F3E8-733D2301B87C">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>7</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>0</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT019</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_11 BYTE" id="C340D9EE-EDF0-1F01-CBAD-BE21C754413E">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>11 BYTE</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_40 BYTE" id="C6620C36-9295-E6D9-28BB-F12EF03E7DDB">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>40 BYTE</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_31 BYTE" id="CA9D598E-B142-0C82-EFDA-D22A32546CF2">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>31 BYTE</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_58 BYTE" id="F326272B-3FFD-D8C5-08A7-13D9B4920406">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>58 BYTE</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_38 BYTE" id="F7F370DE-9FF9-66C4-2AF8-D5B25B472EC5">
+         <createdBy>davidko</createdBy>
+         <createdTime>2014-09-16 02:08:05 UTC</createdTime>
+         <ownerDesignName>project0filedmd</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>38 BYTE</dataTypeSize>
+         <fileName>test_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+   </domains>
+</DomainFile>

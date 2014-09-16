@@ -1,0 +1,180 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="FF84EA71-5BEE-69A4-4F07-95DFD4FC389C" name="Consumer Complaints">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>6A91FD91-C757-E691-E174-5C77926AA2A3</importedID>
+<schemaObject>E1DD2668-138C-911A-347F-F3B7EB318D34</schemaObject>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="COMPLAINT_ID" id="CCE73923-0938-9CFC-C50E-5005573792DA">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>B1EA5021-1E6B-2391-80AC-EF5562EFBAA5</importedID>
+<use>0</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<domain>A40C3470-D7C6-1C01-F3E8-733D2301B87C</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT" id="11C6FD73-83BE-558D-F5D0-61A20E9E4CBF">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>CFC7987E-61A5-2F56-75D4-1A89BE2FF4CA</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>02DA4DBD-7471-473A-EDE7-3EFCD4FF3157</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="SUBPRODUCT" id="9A3157EE-815C-CAA1-4F82-86BB3143D803">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>754E4F89-D28A-D18E-C2F1-C9A4B7AA445F</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>F7F370DE-9FF9-66C4-2AF8-D5B25B472EC5</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ISSUE" id="97C228C4-1DB7-A42A-1930-BFBEB47F012D">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>60231F0B-1483-F2F3-BD6A-318378178851</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>C6620C36-9295-E6D9-28BB-F12EF03E7DDB</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="SUBISSUE" id="1A371806-F17F-8BE3-04DA-E7E50F2D6222">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>A9FC4387-997D-1647-6DFE-CF18DDF7483E</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>C6620C36-9295-E6D9-28BB-F12EF03E7DDB</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="STATE" id="C1DEC5CC-86D8-8060-6493-60781DB815E9">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>EF1F6531-8810-F6BD-7EF2-D465E3972994</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>8A60C2A7-23C0-68AF-CDFA-1C18187AF6CE</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ZIP_CODE" id="4B574C71-21B4-D4B2-8A14-15C503495B82">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>FF420F85-65A9-8F6A-CECF-64F969A1B9A0</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>9E70A2C6-847C-A487-BD13-B0FDAC04386B</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="SUBMITTED_VIA" id="C2B267FA-0A1F-2CC9-51C3-C62D4A617B79">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>6777FA05-67CF-EEBD-F3D3-9AAEF603ED56</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>C340D9EE-EDF0-1F01-CBAD-BE21C754413E</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DATE_RECEIVED" id="82E70566-D19C-1EC4-50C4-B0042BD26FE1">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>27B87282-0345-9ACD-ED17-389882150D6F</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>65C4A3E8-E2B3-2E1D-F543-5327C41B5C58</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DATE_SENT_TO_COMPANY" id="A00E0CE4-60CB-31EF-809B-D42B96F70CDC">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>E7023F23-067E-AD04-0770-164A970C5653</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>65C4A3E8-E2B3-2E1D-F543-5327C41B5C58</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="COMPANY" id="D1EE712E-7E89-AE4E-0721-7094B1E8DBC3">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>7F682AFF-ACCE-87B6-73BA-123138F5E4B4</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>F326272B-3FFD-D8C5-08A7-13D9B4920406</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="COMPANY_RESPONSE" id="EBB186B1-9A3C-B1E4-AEF1-4BA07F628F37">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>DB7AD52F-2981-6386-40D9-1736CB29E66E</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>CA9D598E-B142-0C82-EFDA-D22A32546CF2</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TIMELY_RESPONSE" id="91F3E189-4AB3-0FFB-D6EA-AF4C6181F067">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>9E009273-E2CA-C8C5-58AE-9A4A6395DB7F</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>24FD9FC6-4C5B-7479-9EF8-2AB3E80EBB4B</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CONSUMER_DISPUTED" id="9DC7FCCF-4854-A925-AF21-F627DB90B641">
+<sourceDDLFile>test.ddl</sourceDDLFile>
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<importedID>E86B5C12-5353-75CD-9404-973578FC1F2C</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>24FD9FC6-4C5B-7479-9EF8-2AB3E80EBB4B</domain>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

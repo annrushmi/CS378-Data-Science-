@@ -1,0 +1,11 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.storage.oracle.v12c.StorageDesignOraclev12c>
+   <object objectType="TSpace" objectID="DAA144E9-FA2A-00A7-675D-3CD00DA0D023" name="USERS" seqName="seg_0"/>
+   <object objectType="User" objectID="39A03F54-EDAF-0243-BA11-1187A03689F7" name="C##CS347_DPK326" seqName="seg_0"/>
+   <object objectType="User" objectID="MDSYS" name="MDSYS" seqName="seg_0"/>
+   <object objectType="User" objectID="PUBLIC" name="PUBLIC" seqName="seg_0"/>
+   <object objectType="SType" objectID="47E390DE-0671-C4B1-8428-0F45CBEE18F8" name="SDO_GEOMETRY" seqName="seg_0"/>
+   <object objectType="SType" objectID="F72C39E0-D1CA-8821-2AD7-A1E95A37D3D1" name="XMLTYPE" seqName="seg_0"/>
+   <object objectType="Table" objectID="FF84EA71-5BEE-69A4-4F07-95DFD4FC389C" name="Consumer Complaints" seqName="seg_0"/>
+   <object objectType="Segment" objectID="1B937B31-0E76-399E-F6CC-FEF5D1292D3B" name="Storage2" seqName="seg_0"/>
+</oracle.dbtools.crest.model.design.storage.oracle.v12c.StorageDesignOraclev12c>

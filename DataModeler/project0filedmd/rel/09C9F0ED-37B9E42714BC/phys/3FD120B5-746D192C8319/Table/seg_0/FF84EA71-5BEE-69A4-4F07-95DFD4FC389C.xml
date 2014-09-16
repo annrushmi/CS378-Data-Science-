@@ -1,0 +1,84 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="Consumer Complaints" directorySegmentName="seg_0" id="FF84EA71-5BEE-69A4-4F07-95DFD4FC389C">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+<schemaObject>E1DD2668-138C-911A-347F-F3B7EB318D34</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>1B937B31-0E76-399E-F6CC-FEF5D1292D3B</segment>
+<tableSpace>DAA144E9-FA2A-00A7-675D-3CD00DA0D023</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="PRODUCT" id="11C6FD73-83BE-558D-F5D0-61A20E9E4CBF">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="SUBISSUE" id="1A371806-F17F-8BE3-04DA-E7E50F2D6222">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ZIP_CODE" id="4B574C71-21B4-D4B2-8A14-15C503495B82">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="DATE_RECEIVED" id="82E70566-D19C-1EC4-50C4-B0042BD26FE1">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="TIMELY_RESPONSE" id="91F3E189-4AB3-0FFB-D6EA-AF4C6181F067">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ISSUE" id="97C228C4-1DB7-A42A-1930-BFBEB47F012D">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="SUBPRODUCT" id="9A3157EE-815C-CAA1-4F82-86BB3143D803">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CONSUMER_DISPUTED" id="9DC7FCCF-4854-A925-AF21-F627DB90B641">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="DATE_SENT_TO_COMPANY" id="A00E0CE4-60CB-31EF-809B-D42B96F70CDC">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="STATE" id="C1DEC5CC-86D8-8060-6493-60781DB815E9">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="SUBMITTED_VIA" id="C2B267FA-0A1F-2CC9-51C3-C62D4A617B79">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="COMPLAINT_ID" id="CCE73923-0938-9CFC-C50E-5005573792DA">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="COMPANY" id="D1EE712E-7E89-AE4E-0721-7094B1E8DBC3">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="COMPANY_RESPONSE" id="EBB186B1-9A3C-B1E4-AEF1-4BA07F628F37">
+<createdBy>davidko</createdBy>
+<createdTime>2014-09-16 02:08:05 UTC</createdTime>
+<ownerDesignName>project0filedmd</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+</TableProxyOraclev11g>
