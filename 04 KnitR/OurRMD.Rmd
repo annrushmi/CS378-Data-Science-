@@ -26,6 +26,9 @@ library("knitr", lib.loc="/Library/Frameworks/R.framework/Versions/3.0/Resources
 source("../01 Basic R/Basic.R", echo = TRUE)
 ```
 
+###This is our logical model from Data Modeler
+![](./dmd.png)
+
 ###Consumer Complaint Data by State
 ```ggplot(data = MYTABLE) + geom_histogram(aes(x = STATE))```
 ![](./STATE.png)
@@ -45,14 +48,57 @@ source("../01 Basic R/Basic.R", echo = TRUE)
 ###Our UI.r 
 ```{r}
 #Here is our code for the UI.r:
+# ui.R
 
+#shinyUI(fluidPage(
+#  titlePanel("Consumer Complaints"),
+  
+#  sidebarLayout(
+#    sidebarPanel(
+#      helpText("Create demographic maps with 
+#        information from the 2010 US Census."),
+
+#     selectInput("var", 
+#                  label = "Choose a variable to display",
+#                  choices = c("Submitted Via", "Zip Code"),
+#                  selected = "Percent"),
+      
+#      sliderInput("range",
+#                  label = "Range of interest:",
+#                  min = 0, max = 100, value = c(0, 100))
+#    ),
+    
+#    mainPanel(plotOutput("map"))
+#  )
+#))
 
 ```
 
 ###Our Server.R
 ```{r}
 #Here is our code for the Server.R
+#server.R
 
+#library(maps)
+#library(mapproj)
+#counties <- read.csv(data/cc.csv, header = TRUE, sep = ",", quote = "\"",
+#                     dec = ".", fill = TRUE, comment.char = "#", ...)
+#source("helpers.R")
+
+
+#shinyServer(
+#  function(input, output) {
+#    output$map <- renderPlot({
+#      args <- switch(input$var,
+#                     "Submitted Via" = list(counties$white, "darkgreen", "% White"),
+#                     "ZipCode" = list(counties$black, "black", "% Black"),
+#      args$min <- input$range[1]
+#      args$max <- input$range[2]
+      
+#      do.call(percent_map, args)
+#    })
+#  }
+#)
 
 ```
 
@@ -60,3 +106,4 @@ source("../01 Basic R/Basic.R", echo = TRUE)
 ```{r}
 #Here is a screen shot of our Shiny App
 ```
+![](./screen.png)
