@@ -1,0 +1,5 @@
+library(maps)
+library(mapproj)
+source("census-app/helpers.R")
+counties <- read.csv("data/cc.csv", header = TRUE, sep = ",", quote = "\"", dec = ".", fill = TRUE, comment.char = "#")
+percent_map(counties$white, "darkgreen", "% white")
