@@ -1,3 +1,11 @@
+###CONSUMER COMPLAINTS
+Title: "Consumer Complaints Data Analysis: Project 2 and 3"
+
+Author: "Anesh Patel, David Ko, Ann Abraham"
+
+Date: "December 5, 2014"
+
+
 **Our GitHub repo to clone:** 
 
       https://github.com/annrushmi/CS378-Data-Science-.git
@@ -107,7 +115,7 @@ source("../01 Basic R/Basic.R", echo = TRUE)
 ```
 ![](./screen.png)
 
-###Project 3
+###Data Analysis
 **Findings of Interest:**
 
   - Debt collection complaints appear most often when submitted via web.
