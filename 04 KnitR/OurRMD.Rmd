@@ -170,7 +170,7 @@ Receiving a credit offer: credit decision and underwriting
   - Mortgage complaints concern confusion over logistical issues.
 
   
-      **Pictures**
+      **PICTURES THAT REPRESENT OUR FINDINGS**
       
       ```
       This is our final work flow from data miner.
@@ -227,5 +227,7 @@ Receiving a credit offer: credit decision and underwriting
       ![](./pictures/submitted via referral and phone sql statement.png)
       ![](./pictures/submitted via web sql statement.png)
       ![](./pictures/submittedVia Cluster.png)
+ 
+ 
  
             
