@@ -162,13 +162,13 @@ Receiving a credit offer: credit decision and underwriting
 ```      
 
 ##Findings of Interest:
-```
+
   - Debt collection complaints appear most often when submitted via web.
   - When complaints are submitted via referral, mortgage complaints are  
     substantially the highest.
   - Debt collection complaints concern unfair or hostile communication.
   - Mortgage complaints concern confusion over logistical issues.
-```  
+
   
       **Pictures**
       
