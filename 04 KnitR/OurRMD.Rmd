@@ -1,11 +1,3 @@
-Consumer Complaints
----
-Title: "Consumer Complaints Data Analysis: Project 1, 2, and 3"
-
-Author: "Anesh Patel, David Ko, Ann Abraham"
-
-Date: "December 5, 2014"
----
 **Our GitHub repo to clone:** 
 
       https://github.com/annrushmi/CS378-Data-Science-.git
@@ -119,10 +111,68 @@ source("../01 Basic R/Basic.R", echo = TRUE)
 **Findings of Interest:**
 
   - Debt collection complaints appear most often when submitted via web.
-  
   - When complaints are submitted via referral, mortgage complaints are  
     substantially the highest.
-    
   - Debt collection complaints concern unfair or hostile communication.
-  
   - Mortgage complaints concern confusion over logistical issues.
+  
+  
+      **Pictures**
+      
+      ```
+      This is our final work flow from data miner.
+      ```
+      ![](./pictures/finalWorkflow.png)
+      
+      
+      ```
+      This is 3 screen shots of our clusters:
+            -Total complaint data cluster
+            -Cluster of complaints filtered by phone referral
+            -Shot of node 17 
+      ```
+      ![](./pictures/COMPLAINT DATA CLUSTER.png)
+      ![](./pictures/Cluster phone referral.png)
+      ![](./pictures/complaint cluster node 17.png)
+
+
+      ```
+      This is debt collection cluster analysis
+            -full cluster shot
+            -debt collection filtered by state
+            -debt collectin pie chart
+      ```
+      ![](./pictures/debt collection cluster.png)
+      ![](./pictures/debt collection per state.png)
+      ![](./pictures/debt collection pie chart.png)
+      
+      
+      ```
+      This is a mortgage cluster analysis
+            -mortgage cluster
+            -mortgage pie chart
+      ```
+      ![](./pictures/mortgage cluster.png)
+      ![](./pictures/mortgage pie chart.png)
+      
+      
+      ```
+      This is data for specific traits for the number of records
+            -by product
+            -by submitted via
+      ```
+      ![](./pictures/numberRecordsPerProduct.png)
+      ![](./pictures/product by submitted vai.png)
+      
+      
+      ```
+      This is submitted via data
+            -our SQL statement to filter by submitted via referral
+            -our SQL statement to filter by submitted via web
+            -Submitted via cluster analysis
+      ```
+      ![](./pictures/submitted via referral and phone sql statement.png)
+      ![](./pictures/submitted via web sql statement.png)
+      ![](./pictures/submittedVia Cluster.png)
+ 
+            
