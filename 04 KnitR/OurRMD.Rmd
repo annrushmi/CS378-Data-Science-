@@ -1,10 +1,10 @@
 Consumer Complaints
 ---
-title: "Consumer Complaints Data Analysis: Project 1, 2, and 3"
+Title: "Consumer Complaints Data Analysis: Project 1, 2, and 3"
 
-author: "Anesh Patel, David Ko, Ann Abraham"
+Author: "Anesh Patel, David Ko, Ann Abraham"
 
-date: "December 5, 2014"
+Date: "December 5, 2014"
 ---
 **Our GitHub repo to clone:** 
 
