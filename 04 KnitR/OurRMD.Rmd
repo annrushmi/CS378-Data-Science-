@@ -1,4 +1,15 @@
 Consumer Complaints
+---
+title: "Consumer Complaints Data Analysis: Project 1, 2, and 3"
+
+author: "Anesh Patel, David Ko, Ann Abraham"
+
+date: "December 5, 2014"
+---
+**Our GitHub repo to clone:** 
+
+      https://github.com/annrushmi/CS378-Data-Science-.git
+  
 ==================
 
 **Our data set is based on a collection of data based on consumer complaints from Bank companies over a 2 week period from 8/28/2013-9/10/2013. Our data includes state, zip code, complaint description and complaint ID, the method of submitted complaint, company name, date and date received by company and the company's response and whether or not if it was responded to in a timely fashion.**
@@ -8,10 +19,6 @@ Consumer Complaints
 ```{r}
 sessionInfo()
 ```
-
-###Our GitHub (Clone)
-```Our GitHub repo to clone: https://github.com/annrushmi/CS378-Data-Science-.git ```
-
 ###This is our Rpofile configuration
 ```
 Consumer_Complaints <- read.csv("~/Desktop/Consumer_Complaints.csv")
@@ -107,3 +114,15 @@ source("../01 Basic R/Basic.R", echo = TRUE)
 #Here is a screen shot of our Shiny App
 ```
 ![](./screen.png)
+
+###Project 3
+**Findings of Interest:**
+
+  - Debt collection complaints appear most often when submitted via web.
+  
+  - When complaints are submitted via referral, mortgage complaints are  
+    substantially the highest.
+    
+  - Debt collection complaints concern unfair or hostile communication.
+  
+  - Mortgage complaints concern confusion over logistical issues.
