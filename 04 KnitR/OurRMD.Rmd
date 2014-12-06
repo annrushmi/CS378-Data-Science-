@@ -116,16 +116,61 @@ source("../01 Basic R/Basic.R", echo = TRUE)
 ![](./screen.png)
 
 ###Data Analysis
-**Findings of Interest:**
 
+##Data Source
+```
+Financial Consumer Complaints 
+
+“We list complaints in the database when the company responds to the complaints, which confirms a relationship with the consumer”
+Consumer Financial Protection Bureau
+```
+
+##Types of debt collection complaints
+```
+Disclosure verification of debt
+      -Did not receive notice of right to dispute, not enough information to verify debt, did not disclose communication was an attempt to collect a debt.
+
+Communication tactics
+      -Frequent or repeated calls, called outside of 8am-9pm, used obscene, profane or other abusive language, threatened to take legal action, called after sent written cease of communication notice.
+
+False statements
+      -Attempted to collect wrong amount, impersonated attorney, law enforcement or government official, indicated committing crime by not 
+paying debt, indicated should not respond to lawsuit.
+
+Improper contact or sharing of information
+      -Contacted me after I asked not to, contacted my employer, contacted me instead of my attorney, talked to a third  party about my debt taking/threatening illegal action
+      -Threatened to arrest or sue if payment is not made without properly notifying of lawsuit, sued me where I did not live, attempted to seize property
+
+Continued attempts to collect debt not owed
+      -Debt was discharged in bankruptcy, debt resulted from identity theft, debt was paid, debt is not mine
+```
+
+##Types of mortgage complaints
+```
+When you are unable to pay (Loan modification, collection, and foreclosure)
+      -Consumers facing foreclosure have expressed concern and confusion about fees assessed in connection with the foreclosure process
+
+Making payments (Loan servicing, payments, and escrow accounts) 
+      -Consumers express concern over difficulties they experience when the servicing of their loans is transferred, including complaints about fees charged by the prior servicer, unexplained escrow deficiencies, issues with the new servicer accepting the previous servicer’s modification, and communication between the old and new servicer, especially when loss mitigation efforts are ongoing
+
+Applying for a loan 
+      -Consumers raise issues related to interest rate-lock agreements, such as lenders refusing to honor rate-locks, or assessing penalties when the loan does not close
+
+Settling the agreement (settling process and costs)
+
+Receiving a credit offer: credit decision and underwriting
+```      
+
+**Findings of Interest:**
+```
   - Debt collection complaints appear most often when submitted via web.
   - When complaints are submitted via referral, mortgage complaints are  
     substantially the highest.
   - Debt collection complaints concern unfair or hostile communication.
   - Mortgage complaints concern confusion over logistical issues.
+```  
   
-  
-      **Pictures**
+###Pictures
       
       ```
       This is our final work flow from data miner.
