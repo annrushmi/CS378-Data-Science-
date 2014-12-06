@@ -161,7 +161,7 @@ Settling the agreement (settling process and costs)
 Receiving a credit offer: credit decision and underwriting
 ```      
 
-**Findings of Interest:**
+##Findings of Interest:
 ```
   - Debt collection complaints appear most often when submitted via web.
   - When complaints are submitted via referral, mortgage complaints are  
@@ -170,7 +170,7 @@ Receiving a credit offer: credit decision and underwriting
   - Mortgage complaints concern confusion over logistical issues.
 ```  
   
-**Pictures**
+      **Pictures**
       
       ```
       This is our final work flow from data miner.
